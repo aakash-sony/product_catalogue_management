@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+C:\Users\Dell\Documents\Product Catalogue Management\backend\.metadata\.plugins\org.eclipse.jdt.core
-3413270776.index
-4044889780.index
